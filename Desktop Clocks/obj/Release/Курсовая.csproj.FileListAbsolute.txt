@@ -1,0 +1,12 @@
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\bin\Release\Курсовая.exe.config
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\bin\Release\Курсовая.exe
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\bin\Release\Курсовая.pdb
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.Часы.resources
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.Календарь.resources
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.Settings.resources
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.Properties.Resources.resources
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.exe
+C:\Users\Gamer\source\repos\Курсовая\Курсовая\obj\Release\Курсовая.pdb
